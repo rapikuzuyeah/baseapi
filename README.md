@@ -7,6 +7,11 @@
 
 ---------
 
+---------
+### 📃 NOTE
+Kemungkinan ada module yang kurang untuk scraper, klo ada tambahin aja di package.json
+---------
+
 ### cara nambah fitur
 ```
 module.exports = async (req, res) => {
