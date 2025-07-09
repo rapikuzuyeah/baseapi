@@ -15,7 +15,7 @@ module.exports = async (req, res) => {
   try {
 //kodemu
 const data = {
-      hasil: hasil kudenya
+      hasil: hasil kodenya
     };
     return res.json(data); // untuk hasil json
 } catch (e) {
