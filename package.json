@@ -1,0 +1,16 @@
+{
+  "name": "eh-pi-ay-gajelas-api",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google/genai": "^0.13.0",
+    "file-type": "^16.5.3",
+    "jsdom": "^20.0.0",
+    "node-fetch": "^2.6.9"
+  }
+}
