@@ -28,7 +28,7 @@ const data = {
   }
 };
 ```
-### nambahin docs di html
+### Cara nambahin dokumentasi API di docs.html
 ```
 <div class="bg-white bg-opacity-15 rounded-lg p-5 flex flex-col md:flex-row justify-between items-center shadow-lg">
                 <p class="text-lg font-medium mb-2 md:mb-0 md:mr-4">API ENDPOINT:</p>
