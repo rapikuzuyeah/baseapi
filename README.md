@@ -3,7 +3,7 @@
 ### 📃 S&K
 1. Tidak Untuk Dijual!!!
 2. Jangan lupa kasih star di ni repo!
-3. Jika kamu punya masalah [chat gwejh](https://wa.me/6285147604355)
+3. Jika kamu punya masalah ya bikin aja issue di ni repo
 
 ---------
 
