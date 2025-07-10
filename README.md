@@ -39,3 +39,14 @@ const data = {
             </div>
 ```
 
+---------
+### cara deploy ke vercel
+1. Fork repo ini
+2. Login ke [vercel.com](https://vercel.com) pake akun githubmu
+3. Tambah project terus pilih repo hasil forkmu untuk di deploy
+4. Tunggu aja nanti juga jadi
+5. Klo dah jadi kau bebas dah mw setting2 atau rename2, asal jan lupa creditnya aja
+---------
+
+
+
