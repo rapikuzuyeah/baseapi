@@ -46,9 +46,10 @@ const data = {
 3. Tambah project terus pilih repo hasil forkmu untuk di deploy
 4. Tunggu aja nanti juga jadi
 5. Klo dah jadi kau bebas dah mw setting2 atau rename2, asal jan lupa creditnya aja
-Note:
+---------
+---------
+### Note:
 Buat setting2 klo run di vercel ya settingnya tetep di github ( Buat yang gak tau aja )
 ---------
-
 
 
