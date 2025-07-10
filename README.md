@@ -68,7 +68,4 @@ Buat setting2 klo run di vercel ya settingnya tetep di github ( Buat yang gak ta
 
 -----
 
-Terima kasih telah menggunakan **Simple API Basepoint**\! Selamat membangun API yang luar biasa\!
 
-```
-```
