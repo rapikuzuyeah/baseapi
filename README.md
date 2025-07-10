@@ -16,7 +16,7 @@ Kemungkinan ada module yang kurang untuk scraper, klo ada tambahin aja di packag
 ---
 
 ## 🛠️ Cara Menambahkan Fitur
-Menambahkan fitur ke API-mu mudah! Ikuti struktur kode dasar ini aja:
+Ikuti struktur kode ini aja:
 
 ```javascript
 module.exports = async (req, res) => {
