@@ -42,7 +42,7 @@ const data = {
 <div class="bg-white bg-opacity-15 rounded-lg p-5 flex flex-col md:flex-row justify-between items-center shadow-lg">
                 <p class="text-lg font-medium mb-2 md:mb-0 md:mr-4">API ENDPOINT:</p>
                 <div class="flex flex-col md:flex-row items-center w-full md:w-auto">
-                    <a id="api-endpoint" href="/api/" class="text-blue-300 hover:text-blue-200 break-all mb-2 md:mb-0 md:mr-4 transition-colors duration-200" target="_blank">/api/ai/a>
+                    <a id="api-endpoint" href="/api/" class="text-blue-300 hover:text-blue-200 break-all mb-2 md:mb-0 md:mr-4 transition-colors duration-200" target="_blank">/api/a>
                     <button onclick="copyUrl('api-endpoint')" class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded-lg shadow-md transition-all duration-300 ease-in-out transform hover:scale-105">Salin</button>
                 </div>
             </div>
