@@ -1,12 +1,7 @@
 {
   "version": 2,
   "routes": [
-    { "src": "/api/downloader/pixeldrain", "dest": "/api/downloader/pixeldrain.js" },
-    { "src": "/api/downloader/videy", "dest": "/api/downloader/videy.js" },
-    { "src": "/api/ai/gemini", "dest": "/api/ai/gemini.js" },
-    { "src": "/api/ai/geminiwithsystemInstruction", "dest": "/api/ai/geminiwithsystemInstruction.js" },
-    { "src": "/api/ai/geminireadfile", "dest": "/api/ai/geminireadfile.js" },
-    { "src": "/api/ai/geminireadfilewithsystemInstruction", "dest": "/api/ai/geminireadfilewithsystemInstruction.js" },
+    { "src": "/api", "dest": "/api" },
     { "src": "/", "dest": "/docs.html" },
     { "src": "/docs", "dest": "/docs.html" },
     { "src": "/docs.html", "dest": "/docs.html" },
