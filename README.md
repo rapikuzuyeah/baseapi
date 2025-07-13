@@ -63,7 +63,7 @@ const data = {
 -----
 
 ### Note:
-Ku saranin klo pake ni base run nya gak pake vercel
+Ku saranin klo pake ni base run nya gak pake vercel soalnya bikin end point-nya bakal kebatas cuman ampe 12 end point doang
 -----
 
 
