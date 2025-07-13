@@ -63,9 +63,7 @@ const data = {
 -----
 
 ### Note:
-
-Buat setting2 klo run di vercel ya settingnya tetep di github ( Buat yang gak tau aja )
-
+Ku saranin klo pake ni base run nya gak pake vercel
 -----
 
 
