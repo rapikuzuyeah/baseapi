@@ -1,5 +1,6 @@
+
 {
-  "name": "eh-pi-ay-gajelas-api",
+  "name": "eh-pi-ay-doang",
   "version": "1.0.0",
   "type": "commonjs",
   "main": "index.js",
@@ -9,9 +10,14 @@
   },
   "dependencies": {
     "@google/genai": "^0.13.0",
-    "axios": "^0.27.2",
+    "axios": "^1.10.0",
+    "btch-downloader": "^2.8.4",
+    "cheerio": "github:Rapikz-kwontwol/cheerio",
+    "crypto": "^1.0.1",
     "file-type": "^16.5.3",
+    "form-data": "^4.0.0",
     "jsdom": "^20.0.0",
-    "node-fetch": "^2.6.9"
+    "node-fetch": "^2.6.9",
+    "path": "^0.12.7"
   }
 }
