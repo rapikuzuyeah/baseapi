@@ -64,7 +64,7 @@ const data = {
 
 ### Note:
 - Ku saranin klo pake ni base run nya gak pake vercel soalnya bikin end point-nya bakal kebatas cuman ampe 12 end point doang
-- Klo masih pen pake vercel sih akalin aja misalnya bikin rest API khusus sesuatu kek khusus AI musalnya, atau bikin rest API 1 rest API 2 dan seterusnya.
+- Klo masih pen pake vercel sih akalin aja misalnya bikin rest API dengan domain dan isinya khusus sesuatu kek khusus AI musalnya, atau bikin domain rest API 1 rest API 2 dan seterusnya.
 -----
 
 
